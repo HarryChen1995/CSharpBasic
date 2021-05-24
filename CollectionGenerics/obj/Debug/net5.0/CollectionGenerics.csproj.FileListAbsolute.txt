@@ -1,0 +1,15 @@
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/obj/Debug/net5.0/CollectionGenerics.csprojAssemblyReference.cache
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/obj/Debug/net5.0/CollectionGenerics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/obj/Debug/net5.0/CollectionGenerics.AssemblyInfoInputs.cache
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/obj/Debug/net5.0/CollectionGenerics.AssemblyInfo.cs
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/obj/Debug/net5.0/CollectionGenerics.csproj.CoreCompileInputs.cache
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/bin/Debug/net5.0/CollectionGenerics.deps.json
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/bin/Debug/net5.0/CollectionGenerics.runtimeconfig.json
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/bin/Debug/net5.0/CollectionGenerics.runtimeconfig.dev.json
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/bin/Debug/net5.0/CollectionGenerics.dll
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/bin/Debug/net5.0/ref/CollectionGenerics.dll
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/bin/Debug/net5.0/CollectionGenerics.pdb
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/obj/Debug/net5.0/CollectionGenerics.dll
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/obj/Debug/net5.0/ref/CollectionGenerics.dll
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/obj/Debug/net5.0/CollectionGenerics.pdb
+/Users/hanlinchen/Desktop/C#_Basic/CollectionGenerics/obj/Debug/net5.0/CollectionGenerics.genruntimeconfig.cache
