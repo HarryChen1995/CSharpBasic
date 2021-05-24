@@ -1,0 +1,15 @@
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/bin/Debug/net5.0/HttpRequest.deps.json
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/bin/Debug/net5.0/HttpRequest.runtimeconfig.json
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/bin/Debug/net5.0/HttpRequest.runtimeconfig.dev.json
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/bin/Debug/net5.0/HttpRequest.dll
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/bin/Debug/net5.0/ref/HttpRequest.dll
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/bin/Debug/net5.0/HttpRequest.pdb
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/obj/Debug/net5.0/HttpRequest.csprojAssemblyReference.cache
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/obj/Debug/net5.0/HttpRequest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/obj/Debug/net5.0/HttpRequest.AssemblyInfoInputs.cache
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/obj/Debug/net5.0/HttpRequest.AssemblyInfo.cs
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/obj/Debug/net5.0/HttpRequest.csproj.CoreCompileInputs.cache
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/obj/Debug/net5.0/HttpRequest.dll
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/obj/Debug/net5.0/ref/HttpRequest.dll
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/obj/Debug/net5.0/HttpRequest.pdb
+/Users/hanlinchen/Desktop/C#_Basic/HttpRequest/obj/Debug/net5.0/HttpRequest.genruntimeconfig.cache
