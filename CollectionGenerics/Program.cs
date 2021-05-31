@@ -11,7 +11,7 @@ namespace CollectionGenerics
             stringArr.AddRange(new List<String> {"Second", "Third"});
             foreach(string s in stringArr)
             Console.WriteLine(s);
-
+            
             Dictionary<string, int> hashtable = new Dictionary<string, int>();
             hashtable["tom"] = 12;
             hashtable["tom"] += 1;
