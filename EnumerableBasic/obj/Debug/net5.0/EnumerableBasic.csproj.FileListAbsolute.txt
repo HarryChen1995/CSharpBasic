@@ -1,0 +1,15 @@
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/obj/Debug/net5.0/EnumerableBasic.csprojAssemblyReference.cache
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/obj/Debug/net5.0/EnumerableBasic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/obj/Debug/net5.0/EnumerableBasic.AssemblyInfoInputs.cache
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/obj/Debug/net5.0/EnumerableBasic.AssemblyInfo.cs
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/obj/Debug/net5.0/EnumerableBasic.csproj.CoreCompileInputs.cache
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/bin/Debug/net5.0/EnumerableBasic.deps.json
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/bin/Debug/net5.0/EnumerableBasic.runtimeconfig.json
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/bin/Debug/net5.0/EnumerableBasic.runtimeconfig.dev.json
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/bin/Debug/net5.0/EnumerableBasic.dll
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/bin/Debug/net5.0/ref/EnumerableBasic.dll
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/bin/Debug/net5.0/EnumerableBasic.pdb
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/obj/Debug/net5.0/EnumerableBasic.dll
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/obj/Debug/net5.0/ref/EnumerableBasic.dll
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/obj/Debug/net5.0/EnumerableBasic.pdb
+/Users/hanlinchen/Desktop/C#_Basic/EnumerableBasic/obj/Debug/net5.0/EnumerableBasic.genruntimeconfig.cache
